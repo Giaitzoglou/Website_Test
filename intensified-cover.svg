@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+<defs>
+ <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ead7bd"/><stop offset="1" stop-color="#7d4b2a"/></linearGradient>
+ <radialGradient id="sauce2"><stop stop-color="#f8dfac"/><stop offset="1" stop-color="#b56e2f"/></radialGradient>
+</defs>
+<rect width="1200" height="1500" fill="url(#bg2)"/>
+<rect x="80" y="90" width="1040" height="1320" rx="52" fill="#fff9ef" opacity=".92"/>
+<text x="600" y="210" text-anchor="middle" font-family="Georgia,serif" font-size="74" fill="#3d2415">Brown Butter Mayo</text>
+<text x="600" y="275" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" fill="#8f572f">Version 2 – Intensified</text>
+<ellipse cx="600" cy="835" rx="360" ry="250" fill="#85573d"/>
+<ellipse cx="600" cy="790" rx="325" ry="220" fill="url(#sauce2)"/>
+<path d="M430 805 C475 635 760 625 790 790 C808 900 680 970 560 930 C470 900 420 860 430 805Z" fill="#d99850"/>
+<path d="M520 790 C565 710 695 700 725 790 C748 860 655 905 575 870 C525 850 500 820 520 790Z" fill="#f2c77d"/>
+<g fill="#4d2c18" opacity=".78">
+ <circle cx="500" cy="755" r="7"/><circle cx="540" cy="840" r="5"/><circle cx="650" cy="820" r="6"/><circle cx="700" cy="760" r="5"/><circle cx="590" cy="875" r="6"/><circle cx="755" cy="845" r="5"/><circle cx="625" cy="730" r="4"/>
+</g>
+<text x="600" y="1215" text-anchor="middle" font-family="Georgia,serif" font-size="40" fill="#3d2415">Deeper • Toastier • More intense</text>
+<text x="600" y="1280" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" fill="#8f572f">Thermomix recipe • about 1 kg</text>
+</svg>
