@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efe4d2"/><stop offset="1" stop-color="#b9783a"/></linearGradient>
+ <radialGradient id="sauce"><stop stop-color="#fff7df"/><stop offset="1" stop-color="#d7a15d"/></radialGradient>
+</defs>
+<rect width="1200" height="1500" fill="url(#bg)"/>
+<rect x="80" y="90" width="1040" height="1320" rx="52" fill="#fffaf1" opacity=".92"/>
+<text x="600" y="210" text-anchor="middle" font-family="Georgia,serif" font-size="74" fill="#4d2d18">Brown Butter Mayo</text>
+<text x="600" y="275" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" fill="#8a5a34">Version 1 – Classic</text>
+<ellipse cx="600" cy="835" rx="360" ry="250" fill="#9b6b49"/>
+<ellipse cx="600" cy="790" rx="325" ry="220" fill="url(#sauce)"/>
+<path d="M430 805 C470 640 760 630 785 790 C800 900 675 970 560 930 C470 900 420 860 430 805Z" fill="#f1cf8d"/>
+<path d="M520 790 C565 720 690 705 720 790 C745 860 655 905 575 870 C525 850 500 820 520 790Z" fill="#fff2cc"/>
+<g fill="#6d4327" opacity=".65">
+ <circle cx="510" cy="760" r="6"/><circle cx="640" cy="820" r="5"/><circle cx="700" cy="760" r="4"/><circle cx="585" cy="875" r="5"/><circle cx="760" cy="845" r="4"/>
+</g>
+<text x="600" y="1215" text-anchor="middle" font-family="Georgia,serif" font-size="40" fill="#4d2d18">Rich • Nutty • Burger-ready</text>
+<text x="600" y="1280" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" fill="#8a5a34">Thermomix recipe • about 1 kg</text>
+</svg>
